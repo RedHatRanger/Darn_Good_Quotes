@@ -1,1 +1,1 @@
-2025-11-06: "As our island of knowledge grows, so does the shore of our ignorance." – John Archibald Wheeler
+- 2025-11-06: "As our island of knowledge grows, so does the shore of our ignorance." – John Archibald Wheeler
