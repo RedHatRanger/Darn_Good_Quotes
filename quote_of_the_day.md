@@ -1,2 +1,3 @@
 - 2025-11-06: "As our island of knowledge grows, so does the shore of our ignorance." – John Archibald Wheeler
 - 2025-11-07: "Man cannot discover new oceans unless he has the courage to lose sight of the shore." -André Gide
+- 2025-11-10: "Honestly, if you're given the choice between Armageddon or tea, you don't say 'what kind of tea?'" -Neil Gaiman
