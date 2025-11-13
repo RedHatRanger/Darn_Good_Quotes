@@ -2,3 +2,4 @@
 - 2025-11-07: "Man cannot discover new oceans unless he has the courage to lose sight of the shore." -André Gide
 - 2025-11-10: "Honestly, if you're given the choice between Armageddon or tea, you don't say 'what kind of tea?'" -Neil Gaiman
 - 2025-11-12: "When we strive to become better than we are, everything around us becomes better too." -Paulo Coelho
+- 2025-11-13: "The planet does not need more successful people. The planet desperately needs more peacemakers, healers, restorers, storytellers, and lovers of all kinds.” -Dalai Lama
