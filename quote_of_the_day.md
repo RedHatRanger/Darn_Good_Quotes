@@ -3,4 +3,4 @@
 - 2025-11-10: "Honestly, if you're given the choice between Armageddon or tea, you don't say 'what kind of tea?'" -Neil Gaiman
 - 2025-11-12: "When we strive to become better than we are, everything around us becomes better too." -Paulo Coelho
 - 2025-11-13: "The planet does not need more successful people. The planet desperately needs more peacemakers, healers, restorers, storytellers, and lovers of all kinds.” -Dalai Lama
-- 2025-11-14: "The best way to make your dreams come true is to wake up." -Paul Valery --- In response to that: "The best part of waking up -- is Folgers in your cup!" -Folgers Commercials
+- 2025-11-14: "The best way to make your dreams come true is to wake up." -Paul Valery --- Reminding you that: "The best part of waking up -- is Folgers in your cup!" -Folgers Commercials
