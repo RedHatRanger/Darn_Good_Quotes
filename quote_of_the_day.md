@@ -6,3 +6,4 @@
 - 2025-11-14: "The best way to make your dreams come true is to wake up." -Paul Valery --- Reminding you that: "The best part of waking up -- is Folgers in your cup!" -Folgers Commercials
 - 2025-11-17: "Most good programmers do programming not because they expect to get paid, but because they enjoy programming." -Linus Torvalds, the Architect of Open Source
 - 2025-11-18: “Some things cannot be taught; they must be experienced. You never learn the most valuable lessons in life until you go through your own journey.” -Roy T. Bennett
+- 2025-11-19: "At the end of the day people won’t remember what you said or did, they will remember how you made them feel.” -Maya Angelou
