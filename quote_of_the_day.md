@@ -7,3 +7,4 @@
 - 2025-11-17: "Most good programmers do programming not because they expect to get paid, but because they enjoy programming." -Linus Torvalds, the Architect of Open Source
 - 2025-11-18: “Some things cannot be taught; they must be experienced. You never learn the most valuable lessons in life until you go through your own journey.” -Roy T. Bennett
 - 2025-11-19: "At the end of the day people won’t remember what you said or did, they will remember how you made them feel.” -Maya Angelou
+- 2025-11-20: "Nothing great was ever achieved without enthusiasm." -Ralph Waldo Emerson
