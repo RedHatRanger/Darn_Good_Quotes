@@ -9,3 +9,4 @@
 - 2025-11-19: "At the end of the day people won’t remember what you said or did, they will remember how you made them feel.” -Maya Angelou
 - 2025-11-20: "Nothing great was ever achieved without enthusiasm." -Ralph Waldo Emerson
 - 2025-11-21: "What a wonderful thought is that some of the best days of our lives haven't even happened yet." -Anne Frank
+- 2025-11-24: "Good judgment comes from experience. Experience comes from bad judgment." -{Fred Rose, Jim Horning, Rita Mae Brown, A. A. Milne, and Dr. Kerr L. White}
