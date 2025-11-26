@@ -11,3 +11,4 @@
 - 2025-11-21: "What a wonderful thought is that some of the best days of our lives haven't even happened yet." -Anne Frank
 - 2025-11-24: "Good judgment comes from experience. Experience comes from bad judgment." -{Fred Rose, Jim Horning, Rita Mae Brown, A. A. Milne, and Dr. Kerr L. White}
 - 2025-11-25: "A little progress each day adds up to big results." -Satya Nani
+- 2025-11-26: "Do the best you can until you know better. Then when you know better, do better." - Maya Angelou
