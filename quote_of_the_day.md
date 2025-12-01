@@ -12,3 +12,4 @@
 - 2025-11-24: "Good judgment comes from experience. Experience comes from bad judgment." -{Fred Rose, Jim Horning, Rita Mae Brown, A. A. Milne, and Dr. Kerr L. White}
 - 2025-11-25: "A little progress each day adds up to big results." -Satya Nani
 - 2025-11-26: "Do the best you can until you know better. Then when you know better, do better." - Maya Angelou
+- 2025-12-01: "The moment you doubt whether you can fly, you cease forever to be able to do it." -J.M. Barrie, Peter Pan
