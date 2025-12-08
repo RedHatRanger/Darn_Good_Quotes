@@ -15,3 +15,4 @@
 - 2025-12-01: "The moment you doubt whether you can fly, you cease forever to be able to do it." -J.M. Barrie, Peter Pan
 - 2025-12-02: "Very little is needed to make a happy life; it is all within yourself, in your way of thinking." -Marcus Aurelius
 - 2025-12-03: "The Web does not just connect machines, it connects people. We have to make sure that for us to use it well, we don't just put up a wall of computers between us and the people."  -Tim Berners-Lee (Inventor of the World Wide Web)
+- 2025-12-08: “The best way to predict the future is to create it." -Peter Drucker (Management Consultant, Educator, and Author)
