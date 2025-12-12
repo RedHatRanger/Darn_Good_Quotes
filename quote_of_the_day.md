@@ -21,3 +21,5 @@ Daily Quotes:
 - 2025-12-08: “The best way to predict the future is to create it." -Peter Drucker (Management Consultant, Educator, and Author)
 - 2025-12-09: "Just one small positive thought in the morning can change your whole day." -Dalai Lama
 - 2025-12-10: "It is never too late to be what you might have been." -George Eliot
+- 2025-12-11: "The road to success is always under construction." -Lily Tomlin
+- 2025-12-12: "There is no limit to what a person can achieve if they don’t care who gets the credit." -Ronald Reagan
