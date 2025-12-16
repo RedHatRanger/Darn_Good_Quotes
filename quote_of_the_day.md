@@ -24,5 +24,4 @@ Daily Quotes:
 - 2025-12-11: "The road to success is always under construction." -Lily Tomlin
 - 2025-12-12: "There is no limit to what a person can achieve if they don’t care who gets the credit." -Ronald Reagan
 - 2025-12-15: “Once you decide on your occupation you must immerse yourself in your work. You have to fall in love with your work. Never complain about your job. You must dedicate your life to mastering your skill. That's the secret to success and the key to being regarded honorably." -Jirō Ono
-- 2025-12-16: "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self" -Ernest Hemingway
-- 2025-12-17: "Success is not final; Failure is not fatal: It is the courage to continue that counts." -Winston Churchill
+- 2025-12-16: "Success is not final; Failure is not fatal: It is the courage to continue that counts." -Winston Churchill
