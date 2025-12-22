@@ -27,3 +27,5 @@ Daily Quotes:
 - 2025-12-16: "Success is not final; Failure is not fatal: It is the courage to continue that counts." -Winston Churchill
 - 2025-12-17: "Success is the sum of small efforts repeated day in and day out." -Robert Collier
 - 2025-12-18: "When something is important enough, you do it even if the odds are not in your favor." -Elon Musk
+- 2025-12-19: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all." -Dale Carnegie
+- 2025-12-22: "One kind word can warm three winter months." -Japanese Proverb (also happens to be National Cookie Exchange Day today)
