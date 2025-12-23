@@ -29,3 +29,5 @@ Daily Quotes:
 - 2025-12-18: "When something is important enough, you do it even if the odds are not in your favor." -Elon Musk
 - 2025-12-19: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all." -Dale Carnegie
 - 2025-12-22: "One kind word can warm three winter months." -Japanese Proverb (also happens to be National Cookie Exchange Day today)
+- 2025-12-23: "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected." -Steve Jobs
+  >Embracing the “yardstick of quality” mindset is about consistently demanding the best from yourself. You set a personal example of excellence, just like Steve Jobs. It means you're not just aiming for success; you're unapologetically demanding it from yourself. It's not a fleeting commitment; it's a life philosophy.
