@@ -32,3 +32,4 @@ Daily Quotes:
 - 2025-12-23: "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected." -Steve Jobs
   >Embracing the “yardstick of quality” mindset is about consistently demanding the best from yourself. You set a personal example of excellence, just like Steve Jobs. It means you're not just aiming for success; you're unapologetically demanding it from yourself. It's not a fleeting commitment; it's a life philosophy.
 - 2025-12-24: "The best way to predict the future is to create it." -Peter Drucker
+- 2025-12-29: "The way to get started is to quit talking and begin doing." -Walt Disney
