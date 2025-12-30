@@ -35,3 +35,4 @@ Daily Quotes:
 - 2025-12-29: "The way to get started is to quit talking and begin doing." -Walt Disney
   >Pick one nagging task you've been talking about for weeks, and try to knock it out by lunch
 - 2025-12-30: "We are what we repeatedly do. Excellence, then, is not an act, but a habit." -Aristotle
+- 2025-12-31: "There are two ways of spreading light: to be the candle or the mirror that reflects it." -Edith Wharton
