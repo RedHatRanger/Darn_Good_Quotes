@@ -34,3 +34,4 @@ Daily Quotes:
 - 2025-12-24: "The best way to predict the future is to create it." -Peter Drucker
 - 2025-12-29: "The way to get started is to quit talking and begin doing." -Walt Disney
   >Pick one nagging task you've been talking about for weeks, and try to knock it out by lunch
+- 2025-12-30: "We are what we repeatedly do. Excellence, then, is not an act, but a habit." -Aristotle
