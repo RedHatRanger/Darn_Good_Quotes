@@ -37,3 +37,4 @@ Daily Quotes:
 - 2025-12-30: "We are what we repeatedly do. Excellence, then, is not an act, but a habit." -Aristotle
 - 2025-12-31: "There are two ways of spreading light: to be the candle or the mirror that reflects it." -Edith Wharton
   >In a work environment, we often feel pressure to be the "candle" (the one with the big ideas, the leader, the innovator). This quote validates the "mirror" -- the person who supports, reflects excellence, and amplifies the good work of others.
+- 2026-01-05: "Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are." -John Wooden, Legendary Basketball Coach
