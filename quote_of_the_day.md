@@ -39,4 +39,4 @@ Daily Quotes:
   >In a work environment, we often feel pressure to be the "candle" (the one with the big ideas, the leader, the innovator). This quote validates the "mirror" -- the person who supports, reflects excellence, and amplifies the good work of others.
 - 2026-01-05: "Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are." -John Wooden, Legendary Basketball Coach
 - 2026-01-06: "Your talent determines what you can do. Your motivation determines how much you are willing to do. Your attitude determines how well you do it." -Lou Holtz
-- 
+- 2026-01-07: "The happiness of your life depends upon the quality of your thoughts." -Marcus Aurelius
