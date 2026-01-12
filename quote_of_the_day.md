@@ -42,3 +42,4 @@ Daily Quotes:
 - 2026-01-07: "The happiness of your life depends upon the quality of your thoughts." -Marcus Aurelius
 - 2026-01-08: "You don’t have to see the whole staircase, just take the first step." -MLK Jr.
 - 2026-01-09: "Make each day of the week like Friday and your life will take on new enthusiasm." -Byron Pulsifer
+- 2026-01-12: "The sun himself is weak when he first rises, and gathers strength and courage as the day gets on." -Charles Dickens
