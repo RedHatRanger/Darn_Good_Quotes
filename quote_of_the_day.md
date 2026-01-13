@@ -43,3 +43,5 @@ Daily Quotes:
 - 2026-01-08: "You don’t have to see the whole staircase, just take the first step." -MLK Jr.
 - 2026-01-09: "Make each day of the week like Friday and your life will take on new enthusiasm." -Byron Pulsifer
 - 2026-01-12: "The sun himself is weak when he first rises, and gathers strength and courage as the day gets on." -Charles Dickens
+- 2026-01-13: "The afternoon knows what the morning never suspected." -Robert Frost
+- 
