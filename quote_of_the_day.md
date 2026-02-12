@@ -69,4 +69,5 @@ Daily Quotes:
 - 2026-02-09: "Originality is the fine art of remembering what you hear but forgetting where you heard it." -Laurence J. Peter
 - 2026-02-10: "If you only do what you can do, you will never be more than who you are now." -Master Shifu (Kung Fu Panda)
 - 2026-02-11: "A successful man is one who can lay a firm foundation with the bricks others have thrown at him." -David Brinkley
+- 2026-02-12: "Linux: because I'd rather spend 10 hours automating a task than 10 minutes doing it manually." -Every SysAdmin ever
 - 
