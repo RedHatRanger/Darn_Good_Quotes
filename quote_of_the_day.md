@@ -73,4 +73,5 @@ Daily Quotes:
 - 2026-02-13: "Be like a postage stamp. Stick to one thing until you get there." -Josh Billings
 - 2026-02-17: "Kindness is the language which the deaf can hear and the blind can see." -Mark Twain
 - 2026-02-18: "You can't be a beacon if your light don't shine." -Donna Fargo
+- 2026-02-19: "If you can’t explain it simply, you don’t understand it well enough." -Albert Einstein
 - 
