@@ -77,28 +77,44 @@ Daily Quotes:
 - 2026-02-19: "If you can’t explain it simply, you don’t understand it well enough." -Albert Einstein
 - 2026-02-20: "Whether you think you can or you think you can’t, you’re right." -Henry Ford
 - 2026-02-23	"January is for dreamers; February is for doers."	Marc Parent
-- 2026-02-24	"A system is never the sum of its parts; it is the product of their interaction."	Russell Ackoff
-- 2026-02-25	"A problem well-stated is a problem half-solved."	Charles Kettering
-- 2026-02-26	"If people never did silly things, nothing intelligent would ever get done."	Ludwig Wittgenstein
+- 2026-02-24:	"A system is never the sum of its parts; it is the product of their interaction."	Russell Ackoff
+- 2026-02-25:	"A problem well-stated is a problem half-solved."	Charles Kettering
+- 2026-02-26:	"If people never did silly things, nothing intelligent would ever get done."	Ludwig Wittgenstein
 - 2026-02-27	"The eye sees only what the mind is prepared to comprehend."	Robertson Davies
-- 2026-02-27	"Even on the most exalted throne in the world we are only sitting on our own bottom."	Michel de Montaigne
-- 2026-02-28	"Forever is composed of nows."	Emily Dickinson
-- 2026-03-01	"Nobody will believe in you unless you believe in yourself."	Liberace
-- 2026-03-02	"You've got to start with the customer experience and work backwards to the technology; you cannot start with the technology and try to figure out where you’re going to sell it."	Steve Jobs
-- 2026-03-03	"The best way to find yourself is to lose yourself in the service of others."	Mahatma Gandhi
-- 2026-03-04	"A complex system that works is invariably found to have evolved from a simple system that worked."	John Gall
-- 2026-03-05	"The significant problems we face cannot be solved by the same level of thinking that created them."	Albert Einstein
-- 2026-03-06	"Knowledge is a treasure, but practice is the key to it."	Lao Tzu
-- 2026-03-09	"An expert is a person who has made all the mistakes which can be made in a very narrow field."	J. Robert Oppenheimer
-- 2026-03-10	"The only real mistake is the one from which we learn nothing."	Henry Ford
-- 2026-03-11	"Success is stumbling from failure to failure with no loss of enthusiasm."	Winston Churchill
-- 2026-03-12	"The mind is not a vessel to be filled, but a fire to be kindled."	Plutarch
-- 2026-03-13	"I am a great believer in luck, and I find the harder I work the more I have of it."	Thomas Jefferson
-- 2026-03-14	"Nature does not hurry, yet everything is accomplished."	Lao Tzu
-- 2026-03-15	"He who would learn to fly one day must first learn to stand and walk and run and climb and dance; one cannot fly into flying."	Friedrich Nietzsche
-- 2026-03-16	"In the beginner’s mind there are many possibilities, but in the expert’s there are few."	Shunryu Suzuki
-- 2026-03-17	"A tool that does not elide details is not a tool; it is a burden."	Butler Lampson
-- 2026-03-18	"Civilization advances by extending the number of important operations which we can perform without thinking about them."	Alfred North Whitehead
-- 2026-03-19	"Our intelligence is a resource that is too precious to be wasted on things that could be automated or on complexities that are not essential."	Bjarne Stroustrup
-- 2026-03-20	"It's not what we do once in a while that shapes our lives. It's what we do consistently."	Tony Robbins
-- 2026-03-23	"If you automate a mess, you get an automated mess."	Rod Michael
+- 2026-02-27:	"Even on the most exalted throne in the world we are only sitting on our own bottom."	Michel de Montaigne
+- 2026-02-28:	"Forever is composed of nows."	Emily Dickinson
+- 2026-03-01:	"Nobody will believe in you unless you believe in yourself."	Liberace
+- 2026-03-02:	"You've got to start with the customer experience and work backwards to the technology; you cannot start with the technology and try to figure out where you’re going to sell it."	Steve Jobs
+- 2026-03-03:	"The best way to find yourself is to lose yourself in the service of others."	Mahatma Gandhi
+- 2026-03-04:	"A complex system that works is invariably found to have evolved from a simple system that worked."	John Gall
+- 2026-03-05:	"The significant problems we face cannot be solved by the same level of thinking that created them."	Albert Einstein
+- 2026-03-06:	"Knowledge is a treasure, but practice is the key to it."	Lao Tzu
+- 2026-03-09:	"An expert is a person who has made all the mistakes which can be made in a very narrow field."	J. Robert Oppenheimer
+- 2026-03-10:	"The only real mistake is the one from which we learn nothing."	Henry Ford
+- 2026-03-11:	"Success is stumbling from failure to failure with no loss of enthusiasm."	Winston Churchill
+- 2026-03-12:	"The mind is not a vessel to be filled, but a fire to be kindled."	Plutarch
+- 2026-03-13:	"I am a great believer in luck, and I find the harder I work the more I have of it."	Thomas Jefferson
+- 2026-03-14:	"Nature does not hurry, yet everything is accomplished."	Lao Tzu
+- 2026-03-15:	"He who would learn to fly one day must first learn to stand and walk and run and climb and dance; one cannot fly into flying."	Friedrich Nietzsche
+- 2026-03-16:	"In the beginner’s mind there are many possibilities, but in the expert’s there are few."	Shunryu Suzuki
+- 2026-03-17:	"A tool that does not elide details is not a tool; it is a burden."	Butler Lampson
+- 2026-03-18:	"Civilization advances by extending the number of important operations which we can perform without thinking about them."	Alfred North Whitehead
+- 2026-03-19:	"Our intelligence is a resource that is too precious to be wasted on things that could be automated or on complexities that are not essential."	-Bjarne Stroustrup
+- 2026-03-20:	"It's not what we do once in a while that shapes our lives. It's what we do consistently." -Tony Robbins
+- 2026-03-23:	"If you automate a mess, you get an automated mess." -Rod Michael
+- 2026-03-24: "The real danger is not that computers think like men..." -Sydney J. Harris
+- 2026-03-27: "The detail is as important as the essential." -Walter Gropius
+- 2026-03-31: "A potato should be a potato." -Anthony Trollope
+- 2026-04-03: "The most effective debugging tool is still careful thought." -Brian Kernighan
+- 2026-04-06: "One accurate measurement is worth a thousand expert opinions." -Grace Hopper
+- 2026-04-07	"If a computer does not do what you want, you may be thinking too fast."	Dick Brandon
+2026-04-08	"Be remarkably excellent. There is no such thing as 'good enough.'"	Engineering Maxim
+2026-04-10	"The programmer, like the poet, works slightly above mortals... yet the program is real."	Fred Brooks
+2026-04-13	"Debugging is twice as hard as writing the code... if you write the code as cleverly as possible..."	Brian Kernighan
+2026-04-14	"The only way to build a complex system that works is to build it out of simple systems..."	SW Eng Proverb
+2026-04-15	"Character is what you are in the dark."	Dwight L. Moody
+2026-04-16	"The soul becomes dyed with the color of its thoughts."	Marcus Aurelius
+2026-04-17	"Wisdom is the reward you get for a lifetime of listening when you would have rather talked."	Mark Twain
+2026-04-20	"Chuck Norris doesn't debug code. He just stares it down until it confesses its flaws."	Chuck Norris Fact
+2026-04-21	"Between stimulus and response there is a space. In that space is our power to choose..."	Viktor Frankl
+2026-04-22	"The secret of change is to focus all of your energy not on fighting the old, but on building the new."	Socrates
