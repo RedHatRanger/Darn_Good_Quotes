@@ -107,14 +107,15 @@ Daily Quotes:
 - 2026-03-31: "A potato should be a potato." -Anthony Trollope
 - 2026-04-03: "The most effective debugging tool is still careful thought." -Brian Kernighan
 - 2026-04-06: "One accurate measurement is worth a thousand expert opinions." -Grace Hopper
-- 2026-04-07	"If a computer does not do what you want, you may be thinking too fast."	Dick Brandon
-2026-04-08	"Be remarkably excellent. There is no such thing as 'good enough.'"	Engineering Maxim
-2026-04-10	"The programmer, like the poet, works slightly above mortals... yet the program is real."	Fred Brooks
-2026-04-13	"Debugging is twice as hard as writing the code... if you write the code as cleverly as possible..."	Brian Kernighan
-2026-04-14	"The only way to build a complex system that works is to build it out of simple systems..."	SW Eng Proverb
-2026-04-15	"Character is what you are in the dark."	Dwight L. Moody
-2026-04-16	"The soul becomes dyed with the color of its thoughts."	Marcus Aurelius
-2026-04-17	"Wisdom is the reward you get for a lifetime of listening when you would have rather talked."	Mark Twain
-2026-04-20	"Chuck Norris doesn't debug code. He just stares it down until it confesses its flaws."	Chuck Norris Fact
-2026-04-21	"Between stimulus and response there is a space. In that space is our power to choose..."	Viktor Frankl
-2026-04-22	"The secret of change is to focus all of your energy not on fighting the old, but on building the new."	Socrates
+- 2026-04-07:	"If a computer does not do what you want, you may be thinking too fast."	-Dick Brandon
+- 2026-04-08:	"Be remarkably excellent. There is no such thing as 'good enough.'"	-Engineering Maxim
+- 2026-04-10:	"The programmer, like the poet, works slightly above mortals... yet the program is real."	-Fred Brooks
+- 2026-04-13:	"Debugging is twice as hard as writing the code... if you write the code as cleverly as possible..."	-Brian Kernighan
+- 2026-04-14:	"The only way to build a complex system that works is to build it out of simple systems..."	-SW Eng Proverb
+- 2026-04-15:	"Character is what you are in the dark."	-Dwight L. Moody
+- 2026-04-16:	"The soul becomes dyed with the color of its thoughts."	-Marcus Aurelius
+- 2026-04-17:	"Wisdom is the reward you get for a lifetime of listening when you would have rather talked."	-Mark Twain
+- 2026-04-20:	"Chuck Norris doesn't debug code. He just stares it down until it confesses its flaws."	-Chuck Norris Fact
+- 2026-04-21:	"Between stimulus and response there is a space. In that space is our power to choose..."	-Viktor Frankl
+- 2026-04-22:	"The secret of change is to focus all of your energy not on fighting the old, but on building the new."	-Socrates
+- 
