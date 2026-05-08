@@ -118,4 +118,16 @@ Daily Quotes:
 - 2026-04-20:	"Chuck Norris doesn't debug code. He just stares it down until it confesses its flaws."	-Chuck Norris Fact
 - 2026-04-21:	"Between stimulus and response there is a space. In that space is our power to choose..."	-Viktor Frankl
 - 2026-04-22:	"The secret of change is to focus all of your energy not on fighting the old, but on building the new."	-Socrates
-- 
+- 2026-04-23:	"The mind adapted to the truth is like a sacred citadel." -Marcus Aurelius
+- 2026-04-23:	"The mind adapted to the truth is like a sacred citadel." -Marcus Aurelius
+- 2026-04-24:	"First say to yourself what you would be; and then do what you have to do." -Epictetus
+- 2026-04-27:	"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." -Sun Tzu
+- 2026-04-28:	"It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do."	-Steve Jobs
+- 2026-04-29:	"Wind extinguishes a candle and energizes fire. You want to be the fire and wish for the wind."	-Nassim Nicholas Taleb
+- 2026-04-30:	"The only way to make sense out of change is to plunge into it, move with it, and join the dance." -Alan Watts
+- 2026-05-01:	"Don't repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system." -Hunt & Thomas
+- 2026-05-04:	"We are what they grow beyond. That is the true burden of all masters."	-Yoda
+- 2026-05-05:	"Many of the truths we cling to depend greatly on our own point of view." -Obi-Wan Kenobi
+- 2026-05-06:	"When we try to pick out anything by itself, we find it hitched to everything else in the Universe." -John Muir
+- 2026-05-07: "We join spokes together in a wheel, but it is the center hole that makes the wagon move. We shape clay into a pot, but it is the emptiness inside that holds whatever we want. We hammer wood for a house, but it is the inner space that makes it livable. ***Therefore, while profit comes from what is there, usefulness comes from what is not there.***" -Lao Tzu
+- 2026-05-08: "No man becomes a fool until he stops asking questions." -Charles Steinmetz
