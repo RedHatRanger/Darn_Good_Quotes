@@ -131,3 +131,14 @@ Daily Quotes:
 - 2026-05-06:	"When we try to pick out anything by itself, we find it hitched to everything else in the Universe." -John Muir
 - 2026-05-07: "We join spokes together in a wheel, but it is the center hole that makes the wagon move. We shape clay into a pot, but it is the emptiness inside that holds whatever we want. We hammer wood for a house, but it is the inner space that makes it livable. ***Therefore, while profit comes from what is there, usefulness comes from what is not there.***" -Lao Tzu
 - 2026-05-08: "No man becomes a fool until he stops asking questions." -Charles Steinmetz
+- 2026-05-08: "No man becomes a fool until he stops asking questions." -Charles Steinmetz
+- 2026-05-11: "I am going to do what I was made for, the things I was brought into the world to do." -Marcus Aurellius
+- 2026-05-12: "When it works, you don't notice it. You only notice it when it breaks." -Bjarne Stroustrup
+- 2026-05-13: "When we are no longer able to change a situation, we are challenged to change ourselves." -Viktor Frankl
+- 2026-05-14: "I consider it impossible to know the parts without knowing the whole, and equally impossible to know the whole without knowing the parts." -Blaise Pascal
+- 2026-05-15: "There is a difference between knowing the path and walking the path." -Morpheus (The Matrix)
+- 2026-05-18: "Automating a mess just yields an automated mess." -Michael Hammer
+- 2026-05-19: "If you can't measure it, you can't manage it." -Peter Drucker
+- 2026-05-20: "Automation shifts fragility to the edge cases. Master the exceptions." -Every Systems Admin
+- 2026-05-21: "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Yet the program product is real. It exists, it moves, it simulates success." -Fred Brooks
+- 2026-05-22: "The business of software development is the business of building tools for other people to use. If you aren't building a tool that makes someone else more effective, you are probably doing the wrong thing." -Tom DeMarco
