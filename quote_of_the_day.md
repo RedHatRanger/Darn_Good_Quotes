@@ -142,3 +142,7 @@ Daily Quotes:
 - 2026-05-20: "Automation shifts fragility to the edge cases. Master the exceptions." -Every Systems Admin
 - 2026-05-21: "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Yet the program product is real. It exists, it moves, it simulates success." -Fred Brooks
 - 2026-05-22: "The business of software development is the business of building tools for other people to use. If you aren't building a tool that makes someone else more effective, you are probably doing the wrong thing." -Tom DeMarco
+- 2026-05-26: "Simplicity is prerequisite for reliability." -Edsger W. Dijkstra
+- 2026-05-27: "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable." -Leslie Lamport
+- 2026-05-28: "If you haven't thought of three possibilities, you haven't started thinking." -Gerald Weinberg
+- 2026-06-01: "Talk is cheap. Show me the code." -Linus Torvalds
