@@ -150,3 +150,4 @@ Daily Quotes:
 - 2026-06-03: "A great software architecture is one where you know exactly what to leave out." -Kevlin Henney
 - 2026-06-04: "Software is a gas; it expands to fill its container." -Nathan Myhrvold
 - 2026-06-05: ​"A language that doesn't affect the way you think about programming is not worth knowing." -Alan Perlis
+- 2026-06-08: ​"All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection." -Butler Lampson
