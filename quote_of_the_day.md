@@ -152,5 +152,8 @@ Daily Quotes:
 - 2026-06-05: ​"A language that doesn't affect the way you think about programming is not worth knowing." -Alan Perlis
 - 2026-06-08: ​"All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection." -Butler Lampson
 - 2026-06-09: "Our systems are clogged with legacy code, legacy concepts, and legacy habits. To move forward, we must learn to discard what is no longer useful." -Bjarne Stroustrup
-- 2026-06-10: ​"Modularity based on abstraction is the way we make sense of complexity. But to be correct, the behavior of the system must remain completely predictable, even as the implementation underneath it changes." -Barbara Liskov
-- 
+- 2026-06-10: "Modularity based on abstraction is the way we make sense of complexity. But to be correct, the behavior of the system must remain completely predictable, even as the implementation underneath it changes." -Barbara Liskov
+- 2026-06-11: "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization." -Gerald M. Weinberg
+- 2026-06-12: "You can't control what you can't measure." -Tom DeMarco
+- 2026-06-15: "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you are as clever as you can be when you write it, how will you ever debug it?" -Brian Kernighan
+- 2026-06-16: "Crafting reusable software is difficult because it requires you to anticipate a wide range of needs and edge cases that may not be apparent in the initial design." -Erich Gamma
