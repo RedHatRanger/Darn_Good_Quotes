@@ -157,4 +157,5 @@ Daily Quotes:
 - 2026-06-12: "You can't control what you can't measure." -Tom DeMarco
 - 2026-06-15: "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you are as clever as you can be when you write it, how will you ever debug it?" -Brian Kernighan
 - 2026-06-16: "Crafting reusable software is difficult because it requires you to anticipate a wide range of needs and edge cases that may not be apparent in the initial design." -Erich Gamma
-- 2026-06-17: "The computer is an exact machine. It executes exactly the instructions you give it, not the ones you intended to give it." -Niklaus Wirth
+- 2026-06-17: ​"You complain about a shortage of data, but what you really mean is a shortage of an explicit definition of what you are trying to do." — John von Neumann
+
