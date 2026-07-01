@@ -157,5 +157,12 @@ Daily Quotes:
 - 2026-06-12: "You can't control what you can't measure." -Tom DeMarco
 - 2026-06-15: "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you are as clever as you can be when you write it, how will you ever debug it?" -Brian Kernighan
 - 2026-06-16: "Crafting reusable software is difficult because it requires you to anticipate a wide range of needs and edge cases that may not be apparent in the initial design." -Erich Gamma
-- 2026-06-17: ​"You complain about a shortage of data, but what you really mean is a shortage of an explicit definition of what you are trying to do." -John von Neumann
-
+- 2026-06-17: "You complain about a shortage of data, but what you really mean is a shortage of an explicit definition of what you are trying to do." -John von Neumann
+- 2026-06-23: "Program testing can be quite effective for showing the presence of bugs, but is hopelessly inadequate for showing their absence." -Edsger W. Dijkstra
+- 2026-06-24: "Premature optimization is the root of all evil (or at least most of it) in programming." -Donald Knuth
+- 2026-06-25: "The manager's function is not to make people work, but to make it possible for people to work." -Tom DeMarco
+- 2026-06-26: "The most likely way for the world to be destroyed, most experts agree, is by accident. That's where we come in; we're computer professionals. We cause accidents." -Nathaniel Borenstein
+- 2026-06-29: "A complex system that is designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system." -John Gall
+- 2026-06-30: "Splitting hairs over abstract future requirements just delays delivery. Code for today, but design it so it can easily change tomorrow." -Ron Jeffries
+- 2026-07-01: "Against the assault of laughter nothing can stand." -Mark Twain
+- 
