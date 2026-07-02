@@ -165,6 +165,10 @@ Daily Quotes:
 - 2026-06-29: "A complex system that is designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system." -John Gall
 - 2026-06-30: "Splitting hairs over abstract future requirements just delays delivery. Code for today, but design it so it can easily change tomorrow." -Ron Jeffries
 - 2026-07-01: "Against the assault of laughter nothing can stand." -Mark Twain
-- 2026-07-02: "Conceptual integrity is the most important consideration in system design." -Fred Brooks
-- 2026-07-03: "Improving daily work is even more important than doing daily work." -Gene Kim
+- 2026-07-02: When a measure becomes a target, it ceases to be a good measure." -Charles Goodhart (Goodhart's Law)
+```
+When Goodharts Law takes hold, you arent measuring the system anymore. You are effectively gaming it.  This happens because people are rational actors who optimize the metrics they are judged by.
+```
+- 2026-07-03: "Conceptual integrity is the most important consideration in system design." -Fred Brooks
+- 2026-07-06: "Improving daily work is even more important than doing daily work." -Gene Kim
 - 
