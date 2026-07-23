@@ -165,10 +165,20 @@ Daily Quotes:
 - 2026-06-29: "A complex system that is designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system." -John Gall
 - 2026-06-30: "Splitting hairs over abstract future requirements just delays delivery. Code for today, but design it so it can easily change tomorrow." -Ron Jeffries
 - 2026-07-01: "Against the assault of laughter nothing can stand." -Mark Twain
-- 2026-07-02: When a measure becomes a target, it ceases to be a good measure." -Charles Goodhart (Goodhart's Law)
-```
-When Goodharts Law takes hold, you arent measuring the system anymore. You are effectively gaming it.  This happens because people are rational actors who optimize the metrics they are judged by.
-```
+- 2026-07-02: "When a measure becomes a target, it ceases to be a good measure." -Charles Goodhart (Goodhart's Law) [When Goodhart's Law takes hold, you aren't measuring the system anymore. You are effectively "gaming" it.  This happens because people are rational actors who optimize the metrics they are judged by.]
 - 2026-07-03: "Conceptual integrity is the most important consideration in system design." -Fred Brooks
 - 2026-07-06: "Improving daily work is even more important than doing daily work." -Gene Kim
+- 2026-07-07: "Science may have found a cure for most evils; but it has found no remedy for the worst of them all – the apathy of human beings." -Helen Keller
+- 2026-07-08: "We do not see things as they are, we see them as we are." -Carl Jung
+- 2026-07-09: "The first principle is that you must not fool yourself—and you are the easiest person to fool." -Richard Feynman
+- 2026-07-10: "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -Antoine de Saint-Exupéry
+- 2026-07-13: "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." -Isaac Asimov
+- 2026-07-14: "In preparing for battle I have always found that plans are useless, but planning is indispensable." -Dwight D. Eisenhower
+- 2026-07-15: "The mission of architecture is to reveal the nature of the building; it should not hide it." -Frank Lloyd Wright
+- 2026-07-16: "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." -Buckminster Fuller
+- 2026-07-17: "A ship in port is safe, but that is not what ships are built for." -Grace Hopper
+- 2026-07-20: "The present is theirs; the future, for which I really worked, is mine." -Nikola Tesla
+- 2026-07-21: "An institution is the lengthened shadow of one man." -Ralph Waldo Emerson (Was he quite possibly referring to Chuck Norris??)
+- 2026-07-22: "Documentation is like a love letter that you write to your future self." -Damian Conway
+- 2026-07-23: "Fix the cause, not the symptom." -Steve Maguire
 - 
