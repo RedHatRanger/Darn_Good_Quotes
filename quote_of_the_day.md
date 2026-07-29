@@ -181,4 +181,8 @@ Daily Quotes:
 - 2026-07-21: "An institution is the lengthened shadow of one man." -Ralph Waldo Emerson (Was he quite possibly referring to Chuck Norris??)
 - 2026-07-22: "Documentation is like a love letter that you write to your future self." -Damian Conway
 - 2026-07-23: "Fix the cause, not the symptom." -Steve Maguire
+- 2026-07-24: "If you can't describe what you are doing as a process, you don't know what you're doing." -W. Edwards Deming
+- 2026-07-27: "Amateurs think about how to prevent failures, professionals think about how to recover from failures." -Tom Limoncelli
+- 2026-07-28: "The more you sweat in peace, the less you bleed in war." -Admiral Hyman G. Rickover
+- 2026-07-29: "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up." -Charlie Munger
 - 
