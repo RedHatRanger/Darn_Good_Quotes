@@ -185,4 +185,25 @@ Daily Quotes:
 - 2026-07-27: "Amateurs think about how to prevent failures, professionals think about how to recover from failures." -Tom Limoncelli
 - 2026-07-28: "The more you sweat in peace, the less you bleed in war." -Admiral Hyman G. Rickover
 - 2026-07-29: "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up." -Charlie Munger
+- 2026-07-30: "You've got to be very careful if you don't know where you are going, because you might not get there." -Yogi Berra
+- 2026-07-31: "You have power over your mind - not outside events. Realize this, and you will find strength." -Marcus Aurelius
+- 2026-08-03: "Fools ignore complexity. Pragmatists suffer it, and can avoid it. Geniuses remove it." -Alan Perlis
+- 2026-08-04: "Many of life's failures are people who did not realize how close they were to success when they gave up." -Thomas A. Edison
+- 2026-08-05: “Keep your face towards the sunshine and shadows will fall behind you.” -Walt Whitman
+- 2026-08-06: "Life is a shipwreck, but we must not forget to sing in the lifeboats.” -Voltaire
+- 2026-08-07: "As soon as programs grew larger, it became apparent that writing a program is not all; more work has to be done afterwards in debugging it." -Maurice Wilkes
+- 2026-08-10: "It is better to be roughly right than precisely wrong." -Richard Hamming
+- 2026-08-11: "All problems in computer science can be solved by another level of abstraction(...except for the problem of too many layers of abstraction.)" -David Wheeler
+- 2026-08-12: "It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong." -Richard Feynman
+- 2026-08-13: “Every strike brings me closer to the next home run.” -Babe Ruth
+- 2026-08-14: "The optimist says the glass is half-full. The pessimist says the glass is half-empty. The engineer says the glass is twice as big as it needs to be. The systems administrator notes that the disk is at 50% capacity and immediately sets a critical alert threshold for 85%." -Every Systems Administrator out there
+- 2026-08-17: "A smooth sea never made a skilled sailor" -Franklin D. Roosevelt
+- 2026-08-18: "One test is worth a thousand expert opinions." -Wernher von Braun
+- 2026-08-19: "It's not about having enough resources. It's about being resourceful." -Tony Robbins
+- 2026-08-20: "When a train goes through a tunnel and it gets dark, you don't throw away the ticket and jump off. You sit still and trust the engineer." -Corrie Ten Boom
+- 2026-08-21: "Progress is impossible without change, and those who cannot change their minds cannot change anything." -George Bernard Shaw
+- 2026-08-24: "Today I will do what others won't, so tomorrow I can accomplish what others can't." -Jerry Rice
+- 2026-08-25: "What we do today, right now, will have an accumulated effect on all our tomorrows." -Alexandra Stoddard
+- 2026-08-26: "Don't watch the clock; do what it does. Keep going." -Sam Levenson
+- 2026-08-27: "If you are not willing to learn, no one can help you; if you are determined to learn, no one can stop you." — Zig Ziglar
 - 
