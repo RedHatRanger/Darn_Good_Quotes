@@ -206,4 +206,16 @@ Daily Quotes:
 - 2026-08-25: "What we do today, right now, will have an accumulated effect on all our tomorrows." -Alexandra Stoddard
 - 2026-08-26: "Don't watch the clock; do what it does. Keep going." -Sam Levenson
 - 2026-08-27: "If you are not willing to learn, no one can help you; if you are determined to learn, no one can stop you." — Zig Ziglar
-- 
+- 2026-08-28: "Engineering is the closest thing to magic that exists in the world." -Elon Musk
+- 2026-08-29: "I did not choose this Engineering life, this Engineering life choose me." -Tupac Shakur (replacing original "Thug" for "Engineering")
+- 2026-08-31: "If you cannot measure it, you cannot improve it." -Lord Kelvin
+- 2026-09-01: "Scientists investigate that which already is; engineers create that which has never been." -Albert Einstein
+- 2026-09-02: "In theory, there is no difference between theory and practice. In practice, there is." -Yogi Berra
+- 2026-09-03: "The unexamined life is not worth living." -Socrates
+- 2026-09-04: "A noble engineer is one who is gifted with the divine spark of curiosity, a passion for truth, and a love of execution." -Grover Cleveland
+- 2026-09-05: "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." -Henry Ford
+- 2026-09-08: "Eighty percent of success is showing up." -Woody Allen
+- 2026-09-09: "A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering." -Freeman Dyson
+- 2026-09-10: "Today is like a ripe avocado; Savor it before it turns into yesterday's guacamole." -Anonymous
+- 2026-09-11: "Engineering problems are under-defined; there are many solutions, good, bad, and indifferent. The art is to arrive at a good solution." –Richard James
+- 2026-09-14: "Life must be understood backward. But it must be lived forward" -Søren Kierkegaard
