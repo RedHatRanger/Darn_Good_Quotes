@@ -219,3 +219,7 @@ Daily Quotes:
 - 2026-09-10: "Today is like a ripe avocado; Savor it before it turns into yesterday's guacamole." -Anonymous
 - 2026-09-11: "Engineering problems are under-defined; there are many solutions, good, bad, and indifferent. The art is to arrive at a good solution." –Richard James
 - 2026-09-14: "Life must be understood backward. But it must be lived forward" -Søren Kierkegaard
+- 2026-09-15: "What lies behind you and what lies in front of you, pales in comparison to what lies inside of you." -Ralph Waldo Emerson
+- 2026-09-16: "Each behavior casts a vote for the type of person you will become." -James Clear
+- 2026-09-17: "It's not what you look at that matters, it's what you see." -Henry David Thoreau
+- 
