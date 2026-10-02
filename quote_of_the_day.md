@@ -222,4 +222,13 @@ Daily Quotes:
 - 2026-09-15: "What lies behind you and what lies in front of you, pales in comparison to what lies inside of you." -Ralph Waldo Emerson
 - 2026-09-16: "Each behavior casts a vote for the type of person you will become." -James Clear
 - 2026-09-17: "It's not what you look at that matters, it's what you see." -Henry David Thoreau
-- 
+- 2026-09-18: "The best performance improvement is the transition from the nonworking state to the working state." -J. Osterhout
+- 2026-09-20: "The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other." -John Carmack
+- 2026-09-22: "You will never truly know yourself or the strength of your relationships until both have been tested by adversity." -J.K. Rowling
+- 2026-09-23: "Science can amuse and fascinate us all, but it is engineering that changes the world." -Isaac Asimov
+- 2026-09-24: "Never be limited by other people's imagination; never limit others because of your own limited imagination." -Dr. Mae Jemison
+- 2026-09-25: "It’s not what happens to you, but how you react to it that matters." –Epictetus
+- 2026-09-28: "What people say you cannot do, you try and find that you can." -Henry David Thoreau
+- 2026-09-29: "All growth is a leap in the dark, a spontaneous unpremeditated act without the benefit of experience." -Henry Miller
+- 2026-09-30: "I would rather go broke betting on my people, than get rich all by myself, on some island like a castaway. And there is no middle ground." -Michael Scott (The Office US, S07E09 - "WUPHF.com")
+- 2026-10-01: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered." -Nelson Mandela
