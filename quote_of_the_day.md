@@ -232,3 +232,13 @@ Daily Quotes:
 - 2026-09-29: "All growth is a leap in the dark, a spontaneous unpremeditated act without the benefit of experience." -Henry Miller
 - 2026-09-30: "I would rather go broke betting on my people, than get rich all by myself, on some island like a castaway. And there is no middle ground." -Michael Scott (The Office US, S07E09 - "WUPHF.com")
 - 2026-10-01: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered." -Nelson Mandela
+- 2026-10-02: "Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do." -Brené Brown
+- 2026-10-05: "To improve your character, know what is in your power and what is beyond it." -Francis Thompson
+- 2026-10-06: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases." -Carl Jung
+- 2026-10-07: "You may be disappointed if you fail, but you are doomed if you don't try." -Beverly Sills
+- 2026-10-08: "If you think you can, you can. And if you think you can't, you're right." -Mary Kay Ash
+- 2026-10-09: "To laugh is to live profoundly." -Milan Kundera
+- 2026-10-13: "Learn from yesterday, live for today, hope for tomorrow." -Albert Einstein
+- 2026-10-14: "A superior person is modest in speech, but exceeds in his or her actions." -Confucius
+- 2026-10-15: "The best armor is to keep out of range." -Italian Proverb
+
