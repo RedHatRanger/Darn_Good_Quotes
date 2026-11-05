@@ -255,3 +255,5 @@ Daily Quotes:
 - [2026-11-03: "You miss 100% of the shots you don’t take." –Wayne Gretzky](./images/2026-11-03%20-%20Wayne%20Gretsky.png)
 - [2026-11-04: "If you want to win, you have to do better than your best. You have to give one hundred and ten percent. That is what gives you that winning edge." —Hank Hill, King of the Hill](./images/2026-11-04%20-%20Hank%20Hill.png)
 - [2026-11-05: "Your future hasn't been written yet. No one's has. Your future is whatever you make it, so make it a good one." -Doc Brown](./images/2026-11-05%20-%20Doc%20Brown.png)
+- [2026-11-06: "The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures." -Kent Beck](./images/2026-11-06%20-%20Kent%20Beck.png)
+- 
