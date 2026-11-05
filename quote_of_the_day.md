@@ -91,7 +91,7 @@ Daily Quotes:
 - 2026-03-06:	"Knowledge is a treasure, but practice is the key to it."	Lao Tzu
 - 2026-03-09:	"An expert is a person who has made all the mistakes which can be made in a very narrow field."	J. Robert Oppenheimer
 - 2026-03-10:	"The only real mistake is the one from which we learn nothing."	Henry Ford
-- 2026-03-11:	"Success is stumbling from failure to failure with no loss of enthusiasm."	Winston Churchill
+- 2026-03-11:	"Success is the ability to go from failure to failure without losing your enthusiasm"	Winston Churchill
 - 2026-03-12:	"The mind is not a vessel to be filled, but a fire to be kindled."	Plutarch
 - 2026-03-13:	"I am a great believer in luck, and I find the harder I work the more I have of it."	Thomas Jefferson
 - 2026-03-14:	"Nature does not hurry, yet everything is accomplished."	Lao Tzu
@@ -131,15 +131,14 @@ Daily Quotes:
 - 2026-05-06:	"When we try to pick out anything by itself, we find it hitched to everything else in the Universe." -John Muir
 - 2026-05-07: "We join spokes together in a wheel, but it is the center hole that makes the wagon move. We shape clay into a pot, but it is the emptiness inside that holds whatever we want. We hammer wood for a house, but it is the inner space that makes it livable. ***Therefore, while profit comes from what is there, usefulness comes from what is not there.***" -Lao Tzu
 - 2026-05-08: "No man becomes a fool until he stops asking questions." -Charles Steinmetz
-- 2026-05-08: "No man becomes a fool until he stops asking questions." -Charles Steinmetz
 - 2026-05-11: "I am going to do what I was made for, the things I was brought into the world to do." -Marcus Aurellius
 - 2026-05-12: "When it works, you don't notice it. You only notice it when it breaks." -Bjarne Stroustrup
 - 2026-05-13: "When we are no longer able to change a situation, we are challenged to change ourselves." -Viktor Frankl
 - 2026-05-14: "I consider it impossible to know the parts without knowing the whole, and equally impossible to know the whole without knowing the parts." -Blaise Pascal
 - 2026-05-15: "There is a difference between knowing the path and walking the path." -Morpheus (The Matrix)
 - 2026-05-18: "Automating a mess just yields an automated mess." -Michael Hammer
-- 2026-05-19: "If you can't measure it, you can't manage it." -Peter Drucker
-- 2026-05-20: "Automation shifts fragility to the edge cases. Master the exceptions." -Every Systems Admin
+- 2026-05-19: "If you can't measure it, you can't manage it."	-Peter Drucker
+- 2026-05-20: "Automation shifts fragility to the edge cases. Master the exceptions."	-Every Systems Admin
 - 2026-05-21: "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Yet the program product is real. It exists, it moves, it simulates success." -Fred Brooks
 - 2026-05-22: "The business of software development is the business of building tools for other people to use. If you aren't building a tool that makes someone else more effective, you are probably doing the wrong thing." -Tom DeMarco
 - 2026-05-26: "Simplicity is prerequisite for reliability." -Edsger W. Dijkstra
@@ -148,7 +147,7 @@ Daily Quotes:
 - 2026-06-01: "Talk is cheap. Show me the code." -Linus Torvalds
 - 2026-06-02: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." -Martin Fowler
 - 2026-06-03: "A great software architecture is one where you know exactly what to leave out." -Kevlin Henney
-- 2026-06-04: "Software is a gas; it expands to fill its container." -Nathan Myhrvold
+- 2026-06-04:	"Software is a gas; it expands to fill its container." -Nathan Myhrvold
 - 2026-06-05: ​"A language that doesn't affect the way you think about programming is not worth knowing." -Alan Perlis
 - 2026-06-08: ​"All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection." -Butler Lampson
 - 2026-06-09: "Our systems are clogged with legacy code, legacy concepts, and legacy habits. To move forward, we must learn to discard what is no longer useful." -Bjarne Stroustrup
@@ -205,7 +204,7 @@ Daily Quotes:
 - 2026-08-24: "Today I will do what others won't, so tomorrow I can accomplish what others can't." -Jerry Rice
 - 2026-08-25: "What we do today, right now, will have an accumulated effect on all our tomorrows." -Alexandra Stoddard
 - 2026-08-26: "Don't watch the clock; do what it does. Keep going." -Sam Levenson
-- 2026-08-27: "If you are not willing to learn, no one can help you; if you are determined to learn, no one can stop you." — Zig Ziglar
+- 2026-08-27: "If you are not willing to learn, no one can help you; if you are determined to learn, no one can stop you." -Zig Ziglar
 - 2026-08-28: "Engineering is the closest thing to magic that exists in the world." -Elon Musk
 - 2026-08-29: "I did not choose this Engineering life, this Engineering life choose me." -Tupac Shakur (replacing original "Thug" for "Engineering")
 - 2026-08-31: "If you cannot measure it, you cannot improve it." -Lord Kelvin
@@ -227,18 +226,32 @@ Daily Quotes:
 - 2026-09-22: "You will never truly know yourself or the strength of your relationships until both have been tested by adversity." -J.K. Rowling
 - 2026-09-23: "Science can amuse and fascinate us all, but it is engineering that changes the world." -Isaac Asimov
 - 2026-09-24: "Never be limited by other people's imagination; never limit others because of your own limited imagination." -Dr. Mae Jemison
-- 2026-09-25: "It’s not what happens to you, but how you react to it that matters." –Epictetus
+- [2026-09-25: "It’s not what happens to you, but how you react to it that matters." –Epictetus](./images/2026-09-25%20-%20Epictetus%20-%20goofus_n_gallant.png)
 - 2026-09-28: "What people say you cannot do, you try and find that you can." -Henry David Thoreau
 - 2026-09-29: "All growth is a leap in the dark, a spontaneous unpremeditated act without the benefit of experience." -Henry Miller
 - 2026-09-30: "I would rather go broke betting on my people, than get rich all by myself, on some island like a castaway. And there is no middle ground." -Michael Scott (The Office US, S07E09 - "WUPHF.com")
-- 2026-10-01: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered." -Nelson Mandela
-- 2026-10-02: "Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do." -Brené Brown
-- 2026-10-05: "To improve your character, know what is in your power and what is beyond it." -Francis Thompson
-- 2026-10-06: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases." -Carl Jung
-- 2026-10-07: "You may be disappointed if you fail, but you are doomed if you don't try." -Beverly Sills
-- 2026-10-08: "If you think you can, you can. And if you think you can't, you're right." -Mary Kay Ash
-- 2026-10-09: "To laugh is to live profoundly." -Milan Kundera
-- 2026-10-13: "Learn from yesterday, live for today, hope for tomorrow." -Albert Einstein
-- 2026-10-14: "A superior person is modest in speech, but exceeds in his or her actions." -Confucius
-- 2026-10-15: "The best armor is to keep out of range." -Italian Proverb
-
+- [2026-10-01: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered." -Nelson Mandela](./images/2026-10-01%20-%20Nelson%20Mandela.png)
+- [2026-10-02: "Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do." -Brené Brown](./images/2026-10-02%20-%20Brene%20Brown.png)
+- [2026-10-05: "To improve your character, know what is in your power and what is beyond it." -Francis Thompson](./images/2026-10-05%20-%20Francis%20Thompson.png)
+- [2026-10-06: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases." -Carl Jung](./images/2026-10-06%20-%20Carl%20Jung.png)
+- [2026-10-07: "You may be disappointed if you fail, but you are doomed if you don't try." -Beverly Sills](./images/2026-10-07%20-%20Beverly%20Sills.png)
+- [2026-10-08: "If you think you can, you can. And if you think you can't, you're right." -Mary Kay Ash](./images/2026-10-08%20-%20Mary%20Kay%20Ash.png)
+- [2026-10-09: "To laugh is to live profoundly." -Milan Kundera](./images/2026-10-09%20-%20Milan%20Kundera.png)
+- [2026-10-13: "Learn from yesterday, live for today, hope for tomorrow." -Albert Einstein](./images/2026-10-13%20-%20Albert%20Einstein.png)
+- [2026-10-14: "A superior person is modest in speech, but exceeds in his or her actions." -Confucius](./images/2026-10-14%20-%20Confucius.png)
+- [2026-10-15: "The best armor is to keep out of range." -Italian Proverb](./images/2026-10-15%20-%20Italian%20Proverb.png)
+- [2026-10-16: "We improve ourselves by victories over ourself. There must be contests, and you must win." -Edward Gibbon](./images/2026-10-16%20-%20Robert%20Gibbon.png)
+- [2026-10-19: "An undefined problem has an infinite number of solutions." -Robert A. Humphrey](./images/2026-10-19%20-%20Robert%20Humphrey.png)
+- [2026-10-20: "Understanding the code matters far more than the specific tool used to write it." -Linus Torvalds](./images/2026-10-20%20-%20Linus%20Torvalds.png)
+- [2026-10-21: "The customer doesn't expect everything will go right all the time; the big test is what you do when things go wrong." -Sir Colin Marshall](./images/2026-10-21%20-%20Superman%20Clark%20Kent.png)
+- [2026-10-22: "The 'PHP' in PHP stands for 'Please Help, Panic' the moment your file upload endpoint starts treating .php2 as an executable script." -Anonymous Security Developer](./images/2026-10-22%20-%20Anonymous%20Quote%20on%20PHP.png)
+- [2026-10-23: "Your most unhappy customers are your greatest source of learning." -Bill Gates](./images/2026-10-23%20-%20Bill%20Gates.png)
+- [2026-10-26: "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." -Linus Torvalds](./images/2026-10-26%20-%20Linus%20Torvalds.png)
+- [2026-10-27: "Until you make peace with who you are, you'll never be content with what you have." -Doris Mortman](./images/2026-10-27%20-%20Doris%20Mortman.png)
+- [2026-10-28: "Seize opportunity by the beard, for it is bald behind." -Bulgarian Proverb](./images/2026-10-28%20-%20Bulgarian%20Proverb.png)
+- [2026-10-29: "Whenever I hear, 'It can't be done,' I know I'm close to success." -Michael Flatley](./images/2026-10-29%20-%20Michael%20Flatley.png)
+- [2026-10-30: "Let us be grateful to people who make us happy: They are the charming gardeners who make our souls blossom." -Marcel Proust](./images/2026-10-30%20-%20Marcel%20Proust.png)
+- [2026-11-02: "Difficulties strengthen the mind, as labor does the body." -Seneca](./images/2026-11-02%20-%20Seneca.png)
+- [2026-11-03: "You miss 100% of the shots you don’t take." –Wayne Gretzky](./images/2026-11-03%20-%20Wayne%20Gretsky.png)
+- [2026-11-04: "If you want to win, you have to do better than your best. You have to give one hundred and ten percent. That is what gives you that winning edge." —Hank Hill, King of the Hill](./images/2026-11-04%20-%20Hank%20Hill.png)
+- [2026-11-05: "Your future hasn't been written yet. No one's has. Your future is whatever you make it, so make it a good one." -Doc Brown](./images/2026-11-05%20-%20Doc%20Brown.png)
