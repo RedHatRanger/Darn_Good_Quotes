@@ -261,3 +261,6 @@ Daily Quotes:
 2026-11-12: "You only live once - but if you work it right, once is enough." -Joe E. Lewis
 2026-11-13: "The whole secret of life is to be interested in one thing profoundly and in a thousand things well." -Horace Walpole
 [2026-11-16: "You have to have confidence in your ability, and then be tough enough to follow through." -Rosalynn Carter](./images/2026-11-16%20-%20Rocky%20Balboa%20-%20Rosalynn%20Carter.png)
+- [2026-11-17: "If I accept the sunshine and warmth, then I must also accept the thunder and lightning." -Khalil Gibran]()
+- [2026-11-18: "Destiny is a name often given in retrospect to choices that had dramatic consequences." -J.K. Rowling]()
+- 
