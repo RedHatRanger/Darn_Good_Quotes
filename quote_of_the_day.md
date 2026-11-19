@@ -256,4 +256,8 @@ Daily Quotes:
 - [2026-11-04: "If you want to win, you have to do better than your best. You have to give one hundred and ten percent. That is what gives you that winning edge." —Hank Hill, King of the Hill](./images/2026-11-04%20-%20Hank%20Hill.png)
 - [2026-11-05: "Your future hasn't been written yet. No one's has. Your future is whatever you make it, so make it a good one." -Doc Brown](./images/2026-11-05%20-%20Doc%20Brown.png)
 - [2026-11-06: "The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures." -Kent Beck](./images/2026-11-06%20-%20Kent%20Beck.png)
-- 
+- 2026-11-09: "The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures." -Kent Beck
+2026-11-10: "A sailor without a destination cannot hope for a favorable wind." -Leon Tec
+2026-11-12: "You only live once - but if you work it right, once is enough." -Joe E. Lewis
+2026-11-13: "The whole secret of life is to be interested in one thing profoundly and in a thousand things well." -Horace Walpole
+[2026-11-16: "You have to have confidence in your ability, and then be tough enough to follow through." -Rosalynn Carter](./images/2026-11-16%20-%20Rocky%20Balboa%20-%20Rosalynn%20Carter.png)
